@@ -1,1 +1,3 @@
 # HTML-CSS-JAVASCRIPT-HOMEWORK
+
+## Mục tiêu dự án
